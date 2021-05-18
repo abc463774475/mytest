@@ -33,5 +33,4 @@ func main() {
         fmt.Println("key2", val2)
     }
     // Output: key value
-    // key2 does not exist
 }
